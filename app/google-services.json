@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "726205467720",
+    "firebase_url": "https://chat-9605c.firebaseio.com",
+    "project_id": "chat-9605c",
+    "storage_bucket": "chat-9605c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726205467720:android:214fc794d7fad8a86f9c7d",
+        "android_client_info": {
+          "package_name": "com.soumyajit.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726205467720-9obi31sms50msa3sqbqvh65qlt3n84bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqEeFNOGvRrAT7KqeykxqahYNeHjN1dtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726205467720-9obi31sms50msa3sqbqvh65qlt3n84bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
